@@ -1,0 +1,63 @@
+[
+    {
+      "id": "ext001",
+      "title": "Dark Mode",
+      "icon": "🌙",
+      "description": "Ez a kiterjesztés automatikusan sötét módra váltja a weboldalakat, hogy kényelmesebbé tegye a böngészést sötét környezetben."
+    },
+    {
+      "id": "ext002",
+      "title": "Ad Blocker",
+      "icon": "🚫",
+      "description": "Egy adblocker kiterjesztés, amely blokkolja a zavaró hirdetéseket és megvédi a felhasználót a nyomon követéstől."
+    },
+    {
+      "id": "ext003",
+      "title": "Password Manager",
+      "icon": "🔐",
+      "description": "Segít tárolni és kezelni a jelszavakat biztonságosan, így nem kell emlékezni rájuk minden weboldalon."
+    },
+    {
+      "id": "ext004",
+      "title": "Grammarly",
+      "icon": "✍️",
+      "description": "Egy nyelvtanellenőrző kiterjesztés, amely segít helyesírási és nyelvtani hibák javításában írás közben."
+    },
+    {
+      "id": "ext005",
+      "title": "Momentum",
+      "icon": "🌅",
+      "description": "A Momentum egy motiváló háttérképes kiterjesztés, amely minden új lapon inspiráló képeket és idézeteket jelenít meg."
+    },
+    {
+      "id": "ext006",
+      "title": "Honey",
+      "icon": "🍯",
+      "description": "A Honey kiterjesztés automatikusan keres és alkalmaz kedvezménykuponokat a vásárlásaid során online."
+    },
+    {
+      "id": "ext007",
+      "title": "OneTab",
+      "icon": "📑",
+      "description": "Segít a böngésző fülrendszerének rendszerezésében, mivel egyetlen kattintással összegyűjti az összes nyitott lapot egy listába."
+    },
+    {
+      "id": "ext008",
+      "title": "LastPass",
+      "icon": "🔑",
+      "description": "Egy népszerű jelszókezelő, amely lehetővé teszi a biztonságos jelszavak tárolását és az automatikus kitöltést."
+    },
+    {
+      "id": "ext009",
+      "title": "Evernote Web Clipper",
+      "icon": "📌",
+      "description": "Segít menteni és rendszerezni weboldalakat, cikkeket és képeket az Evernote fiókba."
+    },
+    {
+      "id": "ext010",
+      "title": "Tab Wrangler",
+      "icon": "🔒",
+      "description": "A Tab Wrangler automatikusan bezárja az inaktív fülöket, hogy csökkentse a memóriahasználatot és a rendszerteljesítményt."
+    }
+  ]
+  
